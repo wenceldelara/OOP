@@ -5,5 +5,5 @@ MEMBERS:
 3. Loping, Bianca Michaela
 
 # Student Assessment System
-USERNAME: admin
-PASSWORD: 12345
+- USERNAME: admin
+- PASSWORD: 12345
